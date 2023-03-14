@@ -6,7 +6,7 @@
 |:---:|:---:|:---:|:---|
 | &check; | 01/02/2023 | 01 | Preparação do ambiente para o curso |
 | &check; | 02/02/2023 | 02 | Jupyter |
-|  | 03/02/2023 | 03 | Aula Inaugural |
+| &check; | 03/02/2023 | 03 | Aula Inaugural |
 
 <br><br>
 
@@ -16,8 +16,8 @@
 
 |   | Data | Aula |    |
 |:---:|:---:|:---:|:---|
-|  | 06/02/2023 | 04 | Bioinformática |
-|  | 07/02/2023 | 05 | Computação |
+| &check; | 06/02/2023 | 04 | Bioinformática |
+| &check; | 07/02/2023 | 05 | Computação |
 |  | 08/02/2023 | 06 | Outros conceitos |
 
 <br><br>
