@@ -18,7 +18,8 @@
 |:---:|:---:|:---:|:---|
 | &check; | 06/02/2023 | 04 | Bioinformática |
 | &check; | 07/02/2023 | 05 | Computação |
-|  | 08/02/2023 | 06 | Outros conceitos |
+| &check; | 08/02/2023 | 06 | Outros conceitos |
+| &check; |  |  | Exercícios de Revisão - Módulo 1 |
 
 <br><br>
 
@@ -28,7 +29,7 @@
 
 |   | Data | Aula |    |
 |:---:|:---:|:---:|:---|
-|  | 09/02/2023 | 07 | Escolha da linguagem |
+| &check; | 09/02/2023 | 07 | Escolha da linguagem |
 |  | 10/02/2023 | 08 | Primeiro programa em Python |
 |  | 13/02/2023 | 09 | Sintaxe básica de Python |
 |  | 14/02/2023 | 10 | Variáveis |
