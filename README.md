@@ -30,9 +30,10 @@
 |   | Data | Aula |    |
 |:---:|:---:|:---:|:---|
 | &check; | 09/02/2023 | 07 | Escolha da linguagem |
-|  | 10/02/2023 | 08 | Primeiro programa em Python |
-|  | 13/02/2023 | 09 | Sintaxe básica de Python |
-|  | 14/02/2023 | 10 | Variáveis |
+| &check; | 10/02/2023 | 08 | Primeiro programa em Python |
+| &check; | 13/02/2023 | 09 | Sintaxe básica de Python |
+| &check; |  |  | Exercícios Práticos - Sintaxe Básica |
+| &check; | 14/02/2023 | 10 | Variáveis |
 |  | 15/02/2023 | 11 | Sequências |
 |  | 16/02/2023 | 12 | Strings |
 |  | 17/02/2023 | 13 | Tuplas |
