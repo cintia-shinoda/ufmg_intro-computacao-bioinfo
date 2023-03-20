@@ -34,7 +34,7 @@
 | &check; | 13/02/2023 | 09 | Sintaxe básica de Python |
 | &check; |  |  | Exercícios Práticos - Sintaxe Básica |
 | &check; | 14/02/2023 | 10 | Variáveis |
-|  | 15/02/2023 | 11 | Sequências |
+| &check; | 15/02/2023 | 11 | Sequências |
 |  | 16/02/2023 | 12 | Strings |
 |  | 17/02/2023 | 13 | Tuplas |
 |  | 20/02/2023 | 14 | Listas - Parte I |
