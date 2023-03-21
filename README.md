@@ -42,8 +42,9 @@
 | &check; | 22/02/2023 | 15 | Listas - Parte II |
 | &check; | 23/02/2023 | 16 | Listas - Parte III |
 | &check; |  |  | Exercícios Práticos - Listas |
-|  |  |  | Exercícios de Revisão - Variáveis - Parte I |
-|  | 24/02/2023 | 17 | Conjuntos |
+| &check; |  |  | Exercícios de Revisão - Variáveis - Parte I |
+| &check; | 24/02/2023 | 17 | Conjuntos |
+| &check; |  |  | Exercícios Práticos - Conjuntos |
 |  | 27/02/2023 | 18 | Dicionários |
 |  | 28/02/2023 | 19 | Últimas considerações |
 |  | 01/03/2023 | 20 | Operadores |
