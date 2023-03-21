@@ -35,11 +35,14 @@
 | &check; |  |  | Exercícios Práticos - Sintaxe Básica |
 | &check; | 14/02/2023 | 10 | Variáveis |
 | &check; | 15/02/2023 | 11 | Sequências |
-|  | 16/02/2023 | 12 | Strings |
-|  | 17/02/2023 | 13 | Tuplas |
-|  | 20/02/2023 | 14 | Listas - Parte I |
-|  | 22/02/2023 | 15 | Listas - Parte II |
-|  | 23/02/2023 | 16 | Listas - Parte III |
+| &check; | 16/02/2023 | 12 | Strings |
+| &check; | 17/02/2023 | 13 | Tuplas |
+| &check; |  |  | Exercícios Práticos - Tuplas |
+| &check; | 20/02/2023 | 14 | Listas - Parte I |
+| &check; | 22/02/2023 | 15 | Listas - Parte II |
+| &check; | 23/02/2023 | 16 | Listas - Parte III |
+| &check; |  |  | Exercícios Práticos - Listas |
+|  |  |  | Exercícios de Revisão - Variáveis - Parte I |
 |  | 24/02/2023 | 17 | Conjuntos |
 |  | 27/02/2023 | 18 | Dicionários |
 |  | 28/02/2023 | 19 | Últimas considerações |
