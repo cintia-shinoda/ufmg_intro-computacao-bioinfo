@@ -46,11 +46,19 @@
 | &check; | 24/02/2023 | 17 | Conjuntos |
 | &check; |  |  | Exercícios Práticos - Conjuntos |
 |  | 27/02/2023 | 18 | Dicionários |
+|  |  |  | Exercícios Práticos - Dicionários |
 |  | 28/02/2023 | 19 | Últimas considerações |
+|  |  |  | Exercícios de revisão - Variáveis - Parte II |
 |  | 01/03/2023 | 20 | Operadores |
+|  |  |  | Exercícios Práticos - Operadores |
+|  |  |  | Exercícios Práticos - Operadores - Desafio |
 |  | 02/03/2023 | 21 | Estruturas Condicionais |
+|  |  |  | Exercícios Práticos - Estruturas Condicionais |
+|  |  |  | Exercícios Práticos - Estruturas Condicionais - Desafio |
 |  | 03/03/2023 | 22 | Estruturas de Repetição - Parte I |
 |  | 06/03/2023 | 23 | Estruturas de Repetição - Parte II |
+|  |  |  | Exercícios Práticos - Estruturas de Repetição |
+|  |  |  | Exercícios Práticos - Estruturas de Repetição - Desafio |
 |  | 07/03/2023 | 24 | Entrada e Saída |
 |  | 08/03/2023 | 25 | Modularização |
 |  | 09/03/2023 | 26 | Passagem de Parâmetros |
