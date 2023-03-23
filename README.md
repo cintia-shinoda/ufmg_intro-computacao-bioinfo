@@ -45,10 +45,10 @@
 | &check; |  |  | Exercícios de Revisão - Variáveis - Parte I |
 | &check; | 24/02/2023 | 17 | Conjuntos |
 | &check; |  |  | Exercícios Práticos - Conjuntos |
-|  | 27/02/2023 | 18 | Dicionários |
-|  |  |  | Exercícios Práticos - Dicionários |
-|  | 28/02/2023 | 19 | Últimas considerações |
-|  |  |  | Exercícios de revisão - Variáveis - Parte II |
+| &check; | 27/02/2023 | 18 | Dicionários |
+| &check; |  |  | Exercícios Práticos - Dicionários |
+| &check; | 28/02/2023 | 19 | Últimas considerações |
+| &check; |  |  | Exercícios de revisão - Variáveis - Parte II |
 |  | 01/03/2023 | 20 | Operadores |
 |  |  |  | Exercícios Práticos - Operadores |
 |  |  |  | Exercícios Práticos - Operadores - Desafio |
