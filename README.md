@@ -49,8 +49,8 @@
 | &check; |  |  | Exercícios Práticos - Dicionários |
 | &check; | 28/02/2023 | 19 | Últimas considerações |
 | &check; |  |  | Exercícios de revisão - Variáveis - Parte II |
-|  | 01/03/2023 | 20 | Operadores |
-|  |  |  | Exercícios Práticos - Operadores |
+| &check; | 01/03/2023 | 20 | Operadores |
+| &check; |  |  | Exercícios Práticos - Operadores |
 |  |  |  | Exercícios Práticos - Operadores - Desafio |
 |  | 02/03/2023 | 21 | Estruturas Condicionais |
 |  |  |  | Exercícios Práticos - Estruturas Condicionais |
