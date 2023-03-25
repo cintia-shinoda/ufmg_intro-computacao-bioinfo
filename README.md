@@ -52,9 +52,9 @@
 | &check; | 01/03/2023 | 20 | Operadores |
 | &check; |  |  | Exercícios Práticos - Operadores |
 |  |  |  | Exercícios Práticos - Operadores - Desafio |
-|  | 02/03/2023 | 21 | Estruturas Condicionais |
-|  |  |  | Exercícios Práticos - Estruturas Condicionais |
-|  |  |  | Exercícios Práticos - Estruturas Condicionais - Desafio |
+| &check; | 02/03/2023 | 21 | Estruturas Condicionais |
+| &check; |  |  | Exercícios Práticos - Estruturas Condicionais |
+| &check; |  |  | Exercícios Práticos - Estruturas Condicionais - Desafio |
 |  | 03/03/2023 | 22 | Estruturas de Repetição - Parte I |
 |  | 06/03/2023 | 23 | Estruturas de Repetição - Parte II |
 |  |  |  | Exercícios Práticos - Estruturas de Repetição |
