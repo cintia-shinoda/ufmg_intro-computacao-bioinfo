@@ -58,7 +58,7 @@
 | &check; | 03/03/2023 | 22 | Estruturas de Repetição - Parte I |
 | &check; | 06/03/2023 | 23 | Estruturas de Repetição - Parte II |
 | &check; |  |  | Exercícios Práticos - Estruturas de Repetição |
-|  |  |  | Exercícios Práticos - Estruturas de Repetição - Desafio |
+| &check; |  |  | Exercícios Práticos - Estruturas de Repetição - Desafio |
 |  | 07/03/2023 | 24 | Entrada e Saída |
 |  | 08/03/2023 | 25 | Modularização |
 |  | 09/03/2023 | 26 | Passagem de Parâmetros |
